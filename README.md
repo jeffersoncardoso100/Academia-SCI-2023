@@ -8,7 +8,7 @@ Lógica elaborada conforme solicitado na prova, Ultilizando de metodos simples e
 
  
  
- ## Listagem dos Códigos :
+ ## Link com listagem dos Códigos :
  
  [UmJAVA](https://github.com/jeffersoncardoso100/Academia-SCI-2023/blob/main/Codigos%20da%20prova/UmJava.java) 
  
