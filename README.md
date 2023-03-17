@@ -4,7 +4,7 @@
   <img src= "https://github.com/jeffersoncardoso100/Academia-SCI-2023/blob/main/imgs.jpg" width="200" height="100" alt="">
  
  ### Códigos desenvolvidos em Linguagem Java, na IDE Eclipse. 
-Lógica elaborada conforme solicitado na prova, Ultilizando de metodos simples e objetivos. Aplicando a orientação á objetos, trabalhando estruturas de repetições (for e o while), condicionais (If/Else) e tratando exceções no metodo (try catch) e etc ...
+Lógica elaborada conforme solicitado na prova, Ultilizando de metodos simples e objetivos. Aplicando orientação á objetos, trabalhando estruturas de repetições (for e o while), condicionais (If/Else) e tratando exceções no metodo (try catch) e etc ...
 
  
  
